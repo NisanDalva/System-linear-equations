@@ -1,0 +1,8 @@
+# ignore visual studio directory
+/.vs/*
+
+# ignore all irrelevant files
+**/Debug/*
+**/*.vcxproj
+**/*.filters
+**/*.user
