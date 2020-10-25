@@ -3,15 +3,6 @@
 
 #include "AllEquations.h"
 
-/**
- * Steps to solve:
- * 1. calculate determinant of coefficients matrix
- * 2. inverse the coefficients matrix
- * 3. multiply between coefficients matrix and free numbers matrix
- *
- * result ---> x = A^(-1) * B
- */
-
 typedef struct
 {
 	int count;
