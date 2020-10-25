@@ -1,5 +1,15 @@
 # System-linear-equations
-A program to solve system linear equations.\n
+A program to solve system linear equations.\
+
+**Steps to solve:**\
+1. calculate determinant of coefficients matrix
+2. inverse the coefficients matrix
+3. multiply between coefficients matrix and free numbers matrix
+result:
+```
+x = A^(-1) * B
+```
+
 Assumptions:
 * Only use 'x', 'y' and 'z' variables.
 * Maximum of equations in the system is 3.
