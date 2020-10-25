@@ -4,7 +4,7 @@ A program to solve system linear equations.
 **Steps to solve:**
 1. calculate determinant of coefficients matrix.
 2. inverse the coefficients matrix.
-3. multiply between coefficients matrix and free numbers matrix.\
+3. multiply between coefficients matrix and free numbers matrix.
 
 Result:
 ```
